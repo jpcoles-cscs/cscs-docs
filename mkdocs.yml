@@ -64,6 +64,9 @@ nav:
       - 'NCCL': software/communication/nccl.md
       - 'RCCL': software/communication/rccl.md
       - 'libfabric': software/communication/libfabric.md
+    - 'Node-level Parallelism Libraries':
+      - software/nodelevel_parallelism/index.md
+      - 'OpenMP': software/nodelevel_parallelism/openmp.md
     - 'Building and Installing software':
       - build-install/index.md
       - 'uenv': build-install/uenv.md
